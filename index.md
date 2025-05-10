@@ -94,3 +94,4 @@ Or another way to use footnote is for referencing a section on a page, like this
 
 <!-- This content will not appear in the rendered Markdown -->
 
+![Image of a birch tree in a swamp](https://media.istockphoto.com/id/2177386456/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D1%96-%D0%B2-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D1%96.jpg?s=2048x2048&w=is&k=20&c=yzKN-73aMdqlp8nncsCcXI8PYL-b9I73DM-HQfUr7d4=)
